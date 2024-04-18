@@ -1,0 +1,10 @@
+content,sentiment,probas
+"Amo a este candidato, soy su fanático",POS,"{'NEG': 0.00810783077031374, 'NEU': 0.057232897728681564, 'POS': 0.9346592426300049}"
+Lo detesto. Puras mentiras,NEG,"{'NEG': 0.9726043939590454, 'NEU': 0.022265994921326637, 'POS': 0.005129528697580099}"
+Creo que puede hacerlo bien como Jefe de gobierno,POS,"{'NEG': 0.009495826438069344, 'NEU': 0.21541860699653625, 'POS': 0.7750855684280396}"
+"No estoy seguro, pero no tengo mucha confianza en sus capacidades de gestión",NEU,"{'NEG': 0.20698948204517365, 'NEU': 0.7315030694007874, 'POS': 0.06150747835636139}"
+#TaboadaCorrupto,NEG,"{'NEG': 0.8528772592544556, 'NEU': 0.12512612342834473, 'POS': 0.0219966322183609}"
+#TaboadaJefeDeGobierno,NEU,"{'NEG': 0.19622831046581268, 'NEU': 0.6688534617424011, 'POS': 0.1349182277917862}"
+"No es excelente, pero es ",NEU,"{'NEG': 0.050069961696863174, 'NEU': 0.5199070572853088, 'POS': 0.4300230145454407}"
+"No es ideal, pero es nuestra mejor alternativa",POS,"{'NEG': 0.0142864640802145, 'NEU': 0.40411344170570374, 'POS': 0.5816000699996948}"
+Taboada pertenece al PRIAN ¿Qué han hecho por nosotros todos estos años?,NEG,"{'NEG': 0.9356427788734436, 'NEU': 0.05669615417718887, 'POS': 0.007661020383238792}"
